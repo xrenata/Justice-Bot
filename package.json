@@ -1,0 +1,15 @@
+{
+  "name": "justice",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^4.1.1",
+    "discord.js": "^14.9.0",
+    "js-yaml": "^4.1.0",
+    "mongoose": "^8.4.1",
+    "node-cron": "^3.0.3"
+  }
+}
